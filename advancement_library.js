@@ -17,7 +17,9 @@ let happy10yearsMcButAsAnImposter = {
   reward: "10 potatos",
   trophy: "potato salad",
   legacy_description: "Only obtainable in BACAP 1.7 but this is an imposter",
-  hardcore_description: "play for 10 years without dying",
-  expansion_description: "In terralith you need to drink Royal Jelly as well.",
+  hardcore_description: "ah yes",
+  hardcore_requirement: "play for 10 years without dying",
+  expansion_description: "Play for 10 years and drink the special terralith only item.",
+  expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
 };
 
