@@ -2,7 +2,7 @@
 
 //
 
-var iHateYou = "var … A devs biggest nightmare!";
+var iHateYou = "var … A devs worst nightmare!";
 
 let happy10yearsMcButAsAnImposter = {
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
