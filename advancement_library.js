@@ -6,8 +6,8 @@ var iHateYou = "var … A devs biggest nightmare!";
 
 let happy10yearsMcButAsAnImposter = {
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
-  legacy: true,    // will color it
-  expansion: true,  // will color it as well
+  legacy: true,    // will do a text format like italic
+  expansion: true,  // will color it
   tab: "statistics",
   type: "goal",
   description: "YOU'RE MOTHER!",
