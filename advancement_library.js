@@ -12,6 +12,7 @@ let happy10yearsMcButAsAnImposter = {
   tab: "statistics",
   type: "goal",
   description: "YOU'RE MOTHER!",
+  requirement: "Jump 10 times",
   xp: "It's over 9000",
   reward: "10 potatos",
   trophy: "potato salad",
