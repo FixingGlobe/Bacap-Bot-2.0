@@ -28,6 +28,6 @@ I'm switching to an SQL DB instead, way more efficent
 but I'm keeping this structure
 this file will be kept in the project to test basic functionality (before the db part because then I will know what the issue is)
 I'm sharing the SQL query on this github, 
-DON'T forget to drop the table(s) at the beginning of the quera
+Globe: DON'T forget to drop the table(s) at the beginning of the query
 */
 
