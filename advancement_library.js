@@ -25,18 +25,26 @@ let happy10yearsMcButAsAnImposter = {
 };
 
 // Globe's stuff
-// Cereal Dedication is hardcoded
+// Cereal Dedication (4 advancements) are hardcoded  
+/* atm these can only be looked up by typing in the exact string of the adv_name, 
+since these are hardcoded 
+or perhaps I could do a check for JS objets if there is no match in the db */
 let customAdvancementTest = {
-  adv_name: "Happy 10 years MC! Will be included as Well :barry:",
+  adv_name: "CustomTest",
+  cereal_dedication: true,  // used for a custom 
   hidden: true,  // will emphasize (italic)
   legacy: true,    // will add a spoiler to the advancement name
   hardcore: true,  // will make it bold
   expansion: true,  // will color it
   tab: "statistics",
   type: "goal",
-  description: "YOU'RE MOTHER!",
-  requirement: "Jump 10 times",
-  };
+  description: "Henry",
+  requirement: "Henry",
+  xp: "23",
+  reward: "1 book",
+  trophy: "Eye of Henry",
+  cereal_notes: "This requires the Cereal Dedication Edition Hardcore Addon Pack",
+};
 
 /* 
 I'm switching to an SQL DB instead, way more efficent
