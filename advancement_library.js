@@ -22,6 +22,7 @@ let happy10yearsMcButAsAnImposter = {
   hardcore_requirement: "play for 10 years without dying",
   expansion_description: "Play for 10 years and drink the special terralith only item.",
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
+  internal_name: "bacap/advancements/combat/root",
 };
 
 // // Not needed, I can just use the legacy property AND legacy description and perhaps set the other 3 booleans to false (for all 4) 
