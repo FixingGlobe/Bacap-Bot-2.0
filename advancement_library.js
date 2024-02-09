@@ -24,7 +24,7 @@ let happy10yearsMcButAsAnImposter = {
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
 };
 
-// // Not needed, I can just use the legacy property
+// // Not needed, I can just use the legacy property AND legacy description and perhaps set the other 3 booleans to false (for all 4) 
 // Globe's stuff
 // Cereal Dedication (4 advancements) are hardcoded  
 /* atm these can only be looked up by typing in the exact string of the adv_name, 
