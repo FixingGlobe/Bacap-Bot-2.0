@@ -22,11 +22,21 @@ let happy10yearsMcButAsAnImposter = {
   hardcore_requirement: "play for 10 years without dying",
   expansion_description: "Play for 10 years and drink the special terralith only item.",
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
-  // Globe's stuff
-  cereal_dedication: false,  // will add a special formating to Globe's 4 advancements
-  // These will have a custom unique display and all 4 other booleans must be set to false
-  // regardless of what it actually is
 };
+
+// Globe's stuff
+// Cereal Dedication is hardcoded
+let customAdvancementTest = {
+  adv_name: "Happy 10 years MC! Will be included as Well :barry:",
+  hidden: true,  // will emphasize (italic)
+  legacy: true,    // will add a spoiler to the advancement name
+  hardcore: true,  // will make it bold
+  expansion: true,  // will color it
+  tab: "statistics",
+  type: "goal",
+  description: "YOU'RE MOTHER!",
+  requirement: "Jump 10 times",
+  };
 
 /* 
 I'm switching to an SQL DB instead, way more efficent
