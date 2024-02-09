@@ -24,11 +24,13 @@ let happy10yearsMcButAsAnImposter = {
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
 };
 
+// // Not needed, I can just use the legacy property
 // Globe's stuff
 // Cereal Dedication (4 advancements) are hardcoded  
 /* atm these can only be looked up by typing in the exact string of the adv_name, 
 since these are hardcoded 
 or perhaps I could do a check for JS objets if there is no match in the db */
+/*
 let customAdvancementTest = {
   adv_name: "CustomTest",
   cereal_dedication: true,  // used for a custom display and will not apply the other formating options
@@ -45,6 +47,7 @@ let customAdvancementTest = {
   trophy: "Eye of Henry",
   cereal_notes: "This requires the Cereal Dedication Edition Hardcore Addon Pack",
 };
+*/
 
 /* 
 I'm switching to an SQL DB instead, way more efficent
