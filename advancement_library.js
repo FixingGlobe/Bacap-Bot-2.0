@@ -6,7 +6,8 @@ var iHateYou = "var … A dev's worst nightmare!";
 
 let happy10yearsMcButAsAnImposter = {
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
-  legacy: true,    // will do a text format like italic
+  hidden: true,  // will do a single line code block `
+  legacy: true,    // will apply the text format italic
   hardcore: true,  // will make it bold
   expansion: true,  // will color it
   tab: "statistics",
