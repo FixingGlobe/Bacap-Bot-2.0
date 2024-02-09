@@ -6,8 +6,8 @@ var iHateYou = "var … A dev's worst nightmare!";
 
 let happy10yearsMcButAsAnImposter = {
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
-  hidden: true,  // will do a single line code block `
-  legacy: true,    // will apply the text format italic
+  hidden: true,  // will emphasize (italic)
+  legacy: true,    // will add a spoiler to the advancement name
   hardcore: true,  // will make it bold
   expansion: true,  // will color it
   tab: "statistics",
@@ -22,6 +22,10 @@ let happy10yearsMcButAsAnImposter = {
   hardcore_requirement: "play for 10 years without dying",
   expansion_description: "Play for 10 years and drink the special terralith only item.",
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
+  // Globe's stuff
+  cereal_dedication: false,  // will add a special formating to Globe's 4 advancements
+  // These will have a custom unique display and all 4 other booleans must be set to false
+  // regardless of what it actually is
 };
 
 /* 
