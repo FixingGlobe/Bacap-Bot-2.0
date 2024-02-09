@@ -31,7 +31,7 @@ since these are hardcoded
 or perhaps I could do a check for JS objets if there is no match in the db */
 let customAdvancementTest = {
   adv_name: "CustomTest",
-  cereal_dedication: true,  // used for a custom 
+  cereal_dedication: true,  // used for a custom display and will not apply the other formating options
   hidden: true,  // will emphasize (italic)
   legacy: true,    // will add a spoiler to the advancement name
   hardcore: true,  // will make it bold
