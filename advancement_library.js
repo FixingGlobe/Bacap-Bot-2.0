@@ -4,7 +4,7 @@
 
 var iHateYou = "var … A dev's worst nightmare!";
 
-let happy10yearsMcButAsAnImposter = {  // perhaps I should name it the adv[id] instead of a name
+let adv0 = {  // perhaps I should name it the adv[id] instead of a name
   id: 0,    // I'm assigning these randomly except 1000, also id 0 is a test object  // ids are for dbs
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
   hidden: true,  // will emphasize (italic)
