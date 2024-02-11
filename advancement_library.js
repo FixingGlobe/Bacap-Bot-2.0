@@ -27,7 +27,74 @@ let happy10yearsMcButAsAnImposter = {  // perhaps I should name it the adv[id] i
   expansion_name: "Amplified Nether",  // will display the name of the expansion pack, Nullscape for example  // also Globe happy now
   addedIn: "BACAP 1.7.Never",
   futureUseBoolean: false,
+  placeholder: true,  // not an actual advancement
 };
+
+
+// * Expansion Exclusive advancements
+// ! Expansion Important Information
+// ! starting at id 10k with their "0" being reserved
+// ! each one having a reserved block of 1k advancements
+
+// * Removed advancements 10k
+let adv10000 = {
+  id: 10000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv10001 = {
+  id: 10001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * Terralith advancements 11k
+let adv11000 = {
+  id: 11000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv11001 = {
+  id: 11001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * Nullscape advancements 12k
+let adv12000 = {
+  id: 12000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv10001 = {
+  id: 12001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * Cereal Dedication advancements 10k
+let adv13000 = {
+  id: 13000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv13001 = {
+  id: 13001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * Edge of the Jungle advancements 14k
+let adv14000 = {
+  id: 14000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv14001 = {
+  id: 14001,
+  adv_name: "Happy 10 years MC!",
+};
+
+
+// ! End of advancements
+
+
 
 // // Not needed, I can just use the legacy property AND legacy description and perhaps set the other 3 booleans to false (for all 4) 
 // Globe's stuff
