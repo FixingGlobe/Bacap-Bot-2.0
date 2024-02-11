@@ -91,6 +91,39 @@ let adv14001 = {
   adv_name: "Happy 10 years MC!",
 };
 
+// * BACAP Infinity advancements 15k
+let adv15000 = {
+  id: 15000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv15001 = {
+  id: 15001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * Australia 16k
+let adv16000 = {
+  id: 16000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv16001 = {
+  id: 16001,
+  adv_name: "Happy 10 years MC!",
+};
+
+// * BACAP 2 17k
+let adv17000 = {
+  id: 17000,
+  placeholder: true,  // not an actual advancement
+};
+
+let adv17001 = {
+  id: 17001,
+  adv_name: "Happy 10 years MC!",
+};
+
 
 // ! End of advancements
 
