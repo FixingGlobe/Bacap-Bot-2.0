@@ -4,7 +4,8 @@
 
 var iHateYou = "var … A dev's worst nightmare!";
 
-let happy10yearsMcButAsAnImposter = {
+let happy10yearsMcButAsAnImposter = {  // perhaps I should name it the adv[id] instead of a name
+  adv_id: 0,    // I'm assigning these randomly except 1000, also id 0 is a test object  // ids are for dbs
   adv_name: "Happy 10 years MC! Will be included as Well :barry:",
   hidden: true,  // will emphasize (italic)
   legacy: true,    // will add a spoiler to the advancement name
@@ -24,6 +25,8 @@ let happy10yearsMcButAsAnImposter = {
   expansion_requirement: "In terralith you need to drink Royal Jelly as well.",
   internal_name: "bacap/advancements/combat/root",
   expansion_name: "Amplified Nether",  // will display the name of the expansion pack, Nullscape for example  // also Globe happy now
+  addedIn: "BACAP 1.7.Never",
+  futureUseBoolean: false,
 };
 
 // // Not needed, I can just use the legacy property AND legacy description and perhaps set the other 3 booleans to false (for all 4) 
